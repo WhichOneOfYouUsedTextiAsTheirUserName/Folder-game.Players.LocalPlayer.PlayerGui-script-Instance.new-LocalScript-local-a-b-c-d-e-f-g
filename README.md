@@ -1,0 +1,1 @@
+# Folder-game.Players.LocalPlayer.PlayerGui-script-Instance.new-LocalScript-local-a-b-c-d-e-f-g
